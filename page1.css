@@ -19,6 +19,7 @@ body {
     display: flex;
     flex-direction: row;
 }
+
 .image-container {
     width: 300px;
     height: 400px;
