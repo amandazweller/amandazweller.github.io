@@ -101,8 +101,10 @@ body {
 }
 .desktop-image {
   display: block; 
+  object-fit: contain;
+
 }
-mobile-image {
+.mobile-image {
   display: none; 
 }
 
