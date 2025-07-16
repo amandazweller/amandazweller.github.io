@@ -72,9 +72,8 @@ body {
     margin-top: 20px;
 }
 desktop-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    width: auto;
+    height: auto;
 }
 mobile-image {
   display: none; 
