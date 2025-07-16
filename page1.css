@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat';
   background-color: hsl(30, 38%, 92%);
 }
 .container {
@@ -37,16 +37,19 @@ body {
     flex: 1;
     flex-direction: column;
 }
-.product-details h1 {
-    font-size: 16px;
-}
+
 .product-details h2 {
     font-size: 24px;
+    font-family: 'Fraunces';
     color: hsl(30, 38%, 20%);
     font-weight: bold;
 }
-.product-details p {
+.product-details p1 {
+    font-family: 'Montserrat';
     font-size: 12px;
+}
+.product-details p2 {
+    font-size: 14px;
 }
 .product-details .current-price {
     font-size: 18px;
