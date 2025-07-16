@@ -118,6 +118,17 @@ img.mobile-image {
 }
 
 @media (max-width: 375px) {
+    .card {
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+    }
+    .product-details {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+    
   .image-container {
     width: 100%;
     height: auto;
