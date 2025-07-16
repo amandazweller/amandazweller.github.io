@@ -75,6 +75,9 @@ body {
     border-radius: 5px;
     cursor: pointer;
     margin-top: 20px;
+    font-family: 'Fraunces';
+    font-weight: 500;
+
 }
 desktop-image {
     width: auto;
