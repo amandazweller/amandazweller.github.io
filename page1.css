@@ -20,6 +20,14 @@ body {
     flex-direction: row;
 }
 
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0, 0%, 100%);
+}
+
 .image-container {
     width: 300px;
     height: 400px;
