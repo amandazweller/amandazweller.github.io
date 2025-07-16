@@ -35,3 +35,18 @@ body {
     color: hsl(220, 15%, 55%);
     line-height: 1.5;
 }
+
+@media (max-width: 375px) {
+  .container {
+    max-width: 280px;
+    padding: 12px;
+  }
+  
+  .qr-heading {
+    font-size: 20px;
+  }
+  
+  .qr-description {
+    font-size: 14px;
+  }
+}
