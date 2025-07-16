@@ -12,6 +12,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    width: auto; 
+    padding: 0 20px;
 }
 .main {
     display: flex;
@@ -29,7 +31,7 @@ body {
     justify-content: center;
     background-color: hsl(0, 0%, 100%);
     border: 1px solid hsl(220, 15%, 55%);
-    max-width: 350px;
+    max-width: 1440px;
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
