@@ -107,6 +107,11 @@ body {
     font-weight: 500;
 
 }
+
+.cart-icon {
+    margin-right: 10px; /* Adds space between icon and text */
+}
+
 img.desktop-image {
   display: block; 
   object-fit: contain;
